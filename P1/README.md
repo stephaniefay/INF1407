@@ -19,3 +19,6 @@ Importante para a avaliação: uso de repetição.
 Faça um formulário que pergunte o nome de uma pessoa. O formulário deverá gerar uma página com uma saudação do tipo: bom dia, boa tarde ou boa noite (dependendo do horário que o usuário utilizar a página, de acordo com o servidor). Utilize apenas uma única página JSP.
 
 Importante para a avaliação: uso de apenas uma única página e apresentação das informações.
+
+##Erros Conhecidos (e ainda não tratados)
+* Todos os erros foram corrigidos.
