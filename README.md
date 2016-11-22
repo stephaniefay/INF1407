@@ -8,6 +8,6 @@
 - [x] Terceira Prova
 - [ ] Correção da Terceira Prova
 - [ ] Quarta Prova
-- [ ] Correção da Terceira Prova
+- [ ] Correção da Quarta Prova
 
 **Não esqueça de checar, no final de cada readme os erros que ainda não foram corrigidos (e são conhecidos) de cada uma das provas.**
