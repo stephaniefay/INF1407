@@ -19,7 +19,9 @@ No final da página, crie um botão para enviar os dados para o servlet "Confere
 `<form action="Confere" method="get">`
 
 Obrigatório na sua implementação:
+
 1. Crie um objeto da classe produto para armazenar os dados de um produto
+
 2. Cre um vetor onde cada posição armazena um produto (um objeto da classe produto)
 
 ##Erros Conhecidos (e ainda não tratados)
