@@ -26,4 +26,4 @@ Obrigatório na sua implementação:
 
 ##Erros Conhecidos (e ainda não tratados)
 
-* Essa prova ainda não foi corrigida pelo professor.
+* Não há erros conhecidos.
