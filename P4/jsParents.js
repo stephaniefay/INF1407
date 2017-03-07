@@ -3,7 +3,7 @@ onload = ini;
 var resultado;
 
 function ini() {
-    document.getElementById("identify").innerHTML = "<strong>Nome:</strong>Stephanie Fay<br><strong>Matrícula:</strong>1121598<br> <h1 align='center'>Quarto Trabalho</h1>";
+    document.getElementById("identify").innerHTML = "<strong>Nome:</strong>Stephanie Fay<br><strong>Matrícula:</strong>xxxxxxx<br> <h1 align='center'>Quarto Trabalho</h1>";
 }
 
 function consulta() {
