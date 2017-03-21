@@ -1,4 +1,4 @@
-#Terceiro Trabalho de Programação para Web de 2016/2
+# Terceiro Trabalho de Programação para Web de 2016/2
 
 Faça uma página HTML + Javascript para emitir notas fiscais. Uma nota fiscal pode ser entendida como uma lista de produtos comprados. Um produto comprado contém os seguintes dados:
 
