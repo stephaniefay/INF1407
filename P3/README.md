@@ -24,6 +24,6 @@ Obrigatório na sua implementação:
 
 2. Cre um vetor onde cada posição armazena um produto (um objeto da classe produto)
 
-##Erros Conhecidos (e ainda não tratados)
+## Erros Conhecidos (e ainda não tratados)
 
 * Não há erros conhecidos.
