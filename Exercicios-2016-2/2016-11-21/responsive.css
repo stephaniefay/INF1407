@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+
+h1 {
+	font-size: 20pt;
+	font-weight: bold;
+	text-align: center;
+}
+
+.titulo {
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: center;
+	background-color: #000000;
+	color: #FFFFFF;
+	height: 20px;
+}
+
+.conteudo {
+	font-size: 12pt;
+	text-align: center;
+	height: 100%;
+	overflow: auto;
+	background-color: #FFFFC0;
+}
+
+.linha {
+	width: 100%;
+	text-align: center;
+}
+
+.responsive {
+	display: inline-block;
+	border: 1px solid #000000;
+	width: 200px;
+	height: 300px;
+}
+
+@media(min-width: 450px) {
+	.responsive {
+		width: 45%;
+	}
+}
