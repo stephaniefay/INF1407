@@ -1,4 +1,4 @@
-#Primeiro trabalho de Programação para Web de 2016/2
+# Primeiro trabalho de Programação para Web de 2016/2
 
 (1,0 ponto) **Crie uma home-page para seu site com links para os itens abaixo** 
 
@@ -20,5 +20,5 @@ Faça um formulário que pergunte o nome de uma pessoa. O formulário deverá ge
 
 Importante para a avaliação: uso de apenas uma única página e apresentação das informações.
 
-##Erros Conhecidos (e ainda não tratados)
+## Erros Conhecidos (e ainda não tratados)
 * Todos os erros foram corrigidos.
