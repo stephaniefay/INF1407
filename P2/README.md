@@ -1,4 +1,4 @@
-#Segundo Trabalho de Programação para Web de 2016/2
+# Segundo Trabalho de Programação para Web de 2016/2
 
 Crie um site com uma calculadora. Uma boa sugestão é complementar o que foi feito em sala de aula.
 
@@ -9,5 +9,5 @@ Crie um site com uma calculadora. Uma boa sugestão é complementar o que foi fe
 * Coloque a página da calculadora como sua página inicial e na raiz de sua aplicação.
 * Não precisa se preocupar em tratar erros dos usuários nos SERVLETS.
 
-##Erros Conhecidos (e ainda não tratados)
+## Erros Conhecidos (e ainda não tratados)
 * Memória de cálculo esquece operações anteriores.
